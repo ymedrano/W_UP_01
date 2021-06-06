@@ -1,7 +1,7 @@
 ---
 title: "W_UP_01"
-author: "your name here"
-date: "fall 2020"
+author: "Yanely Medrano"
+date: "summer 2021"
 output: html_document
 ---
 
