@@ -84,4 +84,4 @@ the p-value is low so we will reject the null hypothesis. There is a difference 
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
-
+First we looked at our variables to know which helper file we needed, which was the numerical~cat file. I copied and pasted the commands from the helper file, then changed the variables to fit the problem I was working on. From the results, I could tell that there was a major difference in the amount of pushups a skill player and a line player can perform, so I rejected the null hypothesis.  
